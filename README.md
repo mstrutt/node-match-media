@@ -1,6 +1,6 @@
 # node-match-media
 
-[![NPM version](https://img.shields.io/npm/v/grunt-match-media.svg)](https://www.npmjs.com/package/grunt-match-media) [![NPM Downloads](https://img.shields.io/npm/dm/grunt-match-media.svg)](https://www.npmjs.com/package/grunt-match-media) [![Dependencies](https://img.shields.io/david/mstrutt/grunt-match-media.svg)](https://david-dm.org/mstrutt/grunt-match-media#info=dependencies) [![Dev Dependencies](https://img.shields.io/david/dev/mstrutt/grunt-match-media.svg)](https://david-dm.org/mstrutt/grunt-match-media#info=devDependencies) [![Build Status](https://img.shields.io/travis/mstrutt/grunt-match-media/master.svg)](https://travis-ci.org/mstrutt/grunt-match-media)
+[![NPM version](https://img.shields.io/npm/v/node-match-media.svg)](https://www.npmjs.com/package/node-match-media) [![NPM Downloads](https://img.shields.io/npm/dm/node-match-media.svg)](https://www.npmjs.com/package/node-match-media) [![Dependencies](https://img.shields.io/david/mstrutt/node-match-media.svg)](https://david-dm.org/mstrutt/node-match-media#info=dependencies) [![Dev Dependencies](https://img.shields.io/david/dev/mstrutt/node-match-media.svg)](https://david-dm.org/mstrutt/node-match-media#info=devDependencies)
 
 > Node function to extract styles matching certain media conditions, and separate the styles out
 
